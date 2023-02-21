@@ -6,8 +6,8 @@
  
 <hr>
 <h3 align="center"> My Stats </h3>
-![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=makbusher&count_private=true&theme=tokyonight&showicons=true)
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=makbusher&langs_count=5&theme=tokyonight)
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/?username=makbusher&count_private=true&theme=tokyonight&showicons=true"/></p>
+<p align="top right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makbusher&langs_count=5&theme=tokyonight"/></p>
 
  
 <hr>
