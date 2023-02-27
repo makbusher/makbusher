@@ -2,7 +2,7 @@
  
 <p align="center"> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" height="250"/> </p>
  <h2 align="center"> About Me </h2>
- Hi! My name is Makayla (Mak for short) and my pronouns are she/her/hers. I am a recent Biology student turned Software Engineer. I am currently working on developing my skills in React, Rails, and JavaScript. Outside of coding, I love playing cozy games (Wythcwood has been my favorite so far), traveling, reading, and live music. 
+ Hi! My name is Makayla (Mak for short) and my pronouns are she/her/hers. I am a recent Biology student turned Software Engineer. I am currently working on developing my skills in React, Rails, and JavaScript. Outside of coding, I love playing cozy games (Wytchwood has been my favorite so far), traveling, reading, and live music. 
  
 <hr>
 <h3 align="center"> Languages, Frameworks, and Tools </h3>
